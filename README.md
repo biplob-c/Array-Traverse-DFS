@@ -52,14 +52,3 @@ You cannot visit the same index more that once in a single path.
 ### Your Task
 Write a program to solve this problem effeciently. Use recursion of any other approach to explore all valid paths and calculate the number of unique sums.
 
-
-'
-
-
-
-
-- **Example**
-  - GitHub Issues (with label-based and title-based detection)
-  - Google Play Store reviews
-  - Fallback detection for repositories without labels
-
