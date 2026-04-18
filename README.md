@@ -26,7 +26,7 @@ An integer representing the number of unique sums for all valid paths.
 **Output**
 5
 
-##Explanation
+## Explanation
 
 Valid paths and their sums:
 
