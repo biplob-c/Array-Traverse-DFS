@@ -27,7 +27,9 @@ An integer representing the number of unique sums for all valid paths.
 5
 
 ##Explanation
+
 Valid paths and their sums:
+
 0 -> 1 -> 2 -> 3 -> 4 -> 5: Sum = 1 + 1 + 1 + 1 + 1 = 5
 
 0 -> 1 -> 2 -> 3 -> 4:  Sum = 1 + 1 + 1 + 1 = 4
@@ -42,12 +44,12 @@ Valid paths and their sums:
 
 *Unique sums:** {1, 2, 3, 4, 5, 5} -> Count = 5
 
-**Note**
+- **Note**
 You must alternate directions at each step.
 For example, if you move forward from index 0, the next move must be backward, and vice versa.
 You cannot visit the same index more that once in a single path.
 
-**Your Task**
+- **Your Task**
 Write a program to solve this problem effeciently. Use recursion of any other approach to explore all valid paths and calculate the number of unique sums.
 
 
