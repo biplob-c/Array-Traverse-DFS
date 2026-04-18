@@ -29,13 +29,18 @@ An integer representing the number of unique sums for all valid paths.
 ##Explanation
 Valid paths and their sums:
 0 -> 1 -> 2 -> 3 -> 4 -> 5: Sum = 1 + 1 + 1 + 1 + 1 = 5
+
 0 -> 1 -> 2 -> 3 -> 4:  Sum = 1 + 1 + 1 + 1 = 4
+
 0 -> 1 -> 2 -> 3: Sum = 1 + 1 + 1 = 3
+
 0 -> 1 -> 2: Sum = 1 + 1 = 2
+
 0 -> 1: Sum = 1
+
 0 -> 5: Sum = 5
 
-*Unique sums: {1, 2, 3, 4, 5, 5} -> Count = 5
+*Unique sums:** {1, 2, 3, 4, 5, 5} -> Count = 5
 
 **Note**
 You must alternate directions at each step.
